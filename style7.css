@@ -90,7 +90,7 @@ body{
     position: fixed;
     top: 0;
     left: 0;
-    background-color: #111;
+    background-color:#5C1760;
     overflow-x: hidden;
     transition: 0.5s;
     padding-top: 60px;
@@ -103,6 +103,8 @@ body{
     color: #818181;
     display: block;
     transition: 0.3s;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
 }
 
 .sidebar a:hover {
@@ -119,10 +121,12 @@ body{
     cursor: pointer;
     border: none;
     background: none;
-    color: #111;
+    color: #5C1760;
+
     outline: none;
 }
 
 .open-btn:hover {
     color: #5C1760;
 }
+
